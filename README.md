@@ -3,5 +3,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamin-nmg/yamin-nmg/output/github-snake.svg?v=pink" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yamin-nmg/yamin-nmg/output/github-snake.svg?v=pink" />
 </picture>
-
-![ocean contribution snake](https://raw.githubusercontent.com/yamin-nmg/yamin-nmg/output/ocean.gif?v=pink)
